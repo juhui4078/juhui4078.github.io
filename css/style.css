@@ -662,3 +662,15 @@ input[type="submit"] {
     }
 }
 
+@media (max-width: 768px) {
+    .grid {
+        width: 100%;
+    }
+}
+
+@media (max-width: 480px) {
+    .grid {
+        width: 100%;
+    }
+}
+
